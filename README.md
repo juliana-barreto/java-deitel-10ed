@@ -1,6 +1,5 @@
 # ☕ Java – Deitel & Deitel
-Este repositório contém minhas soluções para os exercícios do livro "Java Como Programar – 10ª Edição" de Paul Deitel e Harvey Deitel.
-O objetivo principal deste projeto é aprofundar o conhecimento e aplicar os conceitos da linguagem Java, bem como os princípios de programação orientada a objetos (POO), através da resolução sistemática dos desafios presentes em cada capítulo da obra.
+Este repositório contém minhas soluções para os exercícios do livro "Java Como Programar – 10ª Edição" de Paul Deitel e Harvey Deitel, com foco nas versões Java SE 8 e 9.
 
 ## 📚 Estrutura do Livro
 | Capítulo | Tópicos Principais                                                                                         |
@@ -8,7 +7,7 @@ O objetivo principal deste projeto é aprofundar o conhecimento e aplicar os con
 | 1 | Introdução a computadores, internet e Java                                                                 |
 | 2 | Introdução a aplicativos Java: entrada/saída e operadores                                                  |
 | 3 | Introdução a classes, objetos, métodos e strings                                                           |
-| 4 | Instruções de controle (parte 1): `if`, `else`,`while`, operadores de atribuição (`++`, `--`)              |
+| 4 | Instruções de controle (parte 1): `if`, `else`,`while`, operadores de atribuição                           |
 | 5 | Instruções de controle (parte 2): `for`, `do-while`, `switch`, operadores lógicos                          |
 | 6 | Métodos: declaração, invocação, sobrecarga e escopo                                                        |
 | 7 | Arrays e `ArrayList`: declaração, inicialização, manipulação e busca                                       |
@@ -31,6 +30,6 @@ O objetivo principal deste projeto é aprofundar o conhecimento e aplicar os con
 | 24 | Acesso a bancos de dados com JDBC: conexão, consultas e manipulação de dados                               |
 | 25 | GUI do JavaFX: introdução ao JavaFX, cena, palco e componentes básicos                                     |
 
-🛠 Tecnologias Utilizadas
+## 🛠 Tecnologias Utilizadas
 https://img.shields.io/badge/OpenJDK-21.0.7-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
 https://img.shields.io/badge/IntelliJ_IDEA_Ultimate-000000?style=for-the-badge&logo=intellij-idea&logoColor=white
